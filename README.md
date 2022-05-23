@@ -6,6 +6,8 @@
 ## O cadastro foi feito com suporte do curso React + FireBase + Bootstrap da udemy.
 ## A calculadora foi desenvolvida com suporte de fóruns. 
 ## O modelo de teste foi retirado de um forum  e adequado a requisição do projeto. 
+## Abas http://localhost:3000/ "Login", http://localhost:3000/users "Calculadora", http://localhost:3000/novousuario "Cadastrar um usuario", 
+## http://localhost:3000//recuperar-senha "Recupera a senha". http://localhost:3000//fundamental "Perfil". 
 
 Foi utilizado no projeto:
 React
@@ -22,4 +24,4 @@ cors
 supertest
 Jest
 .Para iniciar o projeto faça npm install em api e front e unitilize nodemon server.js na api e npm start no front para rodar
-Abas / "Login", /users "Calculadora", /novousuario "Cadastrar um usuario", /recuperar-senha "Recupera a senha". /fundamental "Perfil".
+
