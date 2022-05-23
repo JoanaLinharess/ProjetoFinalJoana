@@ -7,17 +7,17 @@
 ## A calculadora foi desenvolvida com suporte de fóruns. 
 ## O modelo de teste foi retirado de um forum  e adequado a requisição do projeto. 
 
-## Foi utilizado no projeto:
-## React
-## Node express
-## Firebase
-## Axios 
-## Mocha
-## redux
-## chai
-## Boostrap
-## react-router-dom
-## nodemon
-## cors 
-## supertest
-## Jest
+Foi utilizado no projeto:
+React
+Node express
+Firebase
+Axios 
+Mocha
+redux
+chai
+Boostrap
+react-router-dom
+nodemon
+cors 
+supertest
+Jest
