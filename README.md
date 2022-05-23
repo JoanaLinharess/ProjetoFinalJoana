@@ -22,3 +22,4 @@ cors
 supertest
 Jest
 .Para iniciar o projeto faça npm install em api e front e unitilize nodemon server.js na api e npm start no front para rodar
+Abas / "Login", /users "Calculadora", /novousuario "Cadastrar um usuario", /recuperar-senha "Recupera a senha". /fundamental "Perfil".
