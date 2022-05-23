@@ -1,0 +1,15 @@
+.form-login{
+    max-width: 70%;
+}
+
+.btn-cadastro{
+    background-color: #3434ca;
+    color: #fff;
+}
+.btn-cadastro:hover{
+    background-color: #5050cc;
+    color: #fff;
+}
+.cadastro-aluno{
+    margin-bottom: 50px;
+}

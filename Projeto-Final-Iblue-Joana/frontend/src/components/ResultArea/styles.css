@@ -1,0 +1,9 @@
+.result_area{
+    height: 55px;
+    width: 100%;
+    margin-bottom: 10px !important;
+    background-color: rgb(161, 202, 242);
+    text-align: end;
+    color: rgb(0, 0, 0) !important;
+    border-radius: 5px;
+}
