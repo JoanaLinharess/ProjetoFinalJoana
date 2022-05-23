@@ -21,4 +21,4 @@ nodemon
 cors 
 supertest
 Jest
-Para utilizar npm install em api e front e unitilize nodemon server.js na api e npm start no front para iniciar
+.Para iniciar o projeto faça npm install em api e front e unitilize nodemon server.js na api e npm start no front para rodar
